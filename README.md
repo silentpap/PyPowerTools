@@ -7,5 +7,4 @@ A powerful and versatile toolkit for Python developers to make their tasks more 
 - Text processing tools
 - File and directory management utilities
 - Advanced functionality for complex projects
-- Well-documented and easy to use
 
